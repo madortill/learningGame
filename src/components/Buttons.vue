@@ -23,14 +23,14 @@ export default {
     data() {
         return {
             pdfs: [
-                { name: "מחולל פעילויות", link: "/pdfs/מחולל פעילויות אינטראקטיביות.pdf" },
-                { name: "ניהול כיתה", link: "/pdfs/ניהול כיתה באופן משחוקי.pdf" },
-                { name: "חשיפת תמונה", link: "/pdfs/כלי לפעילויות אינטראקטיביות עם חשיפה הדרגתית של תמונה - Vimboar.pdf" },
-                { name: "פריצת מנעולים", link: "/pdfs/משחק פריצת מנעולים.pdf" },
-                { name: "כתב סתרים", link: "/pdfs/מחולל כתב סתרים.pdf" },
-                { name: "לוח ניקוד", link: "/pdfs/לוח ניקוד.pdf" },
-                { name: "גלגל הגרלה", link: "/pdfs/גלגל הגרלה.pdf" },
-                { name: "באזר מקוון", link: "/pdfs/באזר מקוון.pdf" },
+                { name: "מחולל פעילויות", link: "/pdfs/activityGame.pdf" },
+                { name: "ניהול כיתה", link: "/pdfs/classGame.pdf" },
+                { name: "חשיפת תמונה", link: "/pdfs/exposure.pdf" },
+                { name: "פריצת מנעולים", link: "/pdfs/lock.pdf" },
+                { name: "כתב סתרים", link: "/pdfs/hidden.pdf" },
+                { name: "לוח ניקוד", link: "/pdfs/board.pdf" },
+                { name: "גלגל הגרלה", link: "/pdfs/pulley.pdf" },
+                { name: "באזר מקוון", link: "/pdfs/bazer.pdf" },
             ]
         };
     },
